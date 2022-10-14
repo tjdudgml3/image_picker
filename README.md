@@ -3,7 +3,7 @@ graduation AI project
 
 2021 졸업 프로젝트
 
-시연 영상- [https://github.com/tjdudgml3/image_picker/blob/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4]
+시연 영상- [https://github.com/tjdudgml3/image_picker/blob/main/ppt%26demo_video/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4]
 
 파이썬 모델 학습코드 =[https://github.com/tjdudgml3/image_picker/blob/main/resnet18_%ED%95%99%EC%8A%B5%EB%B6%80%EB%B6%84.ipynb]   
 - 모델은 RestNet18, Resnet50을 사용하고싶었지만 colab메모리가 버티지를 못했다.   
@@ -13,11 +13,11 @@ graduation AI project
 - 그 이후에 학습을 한 후 tensorflowlite 로 안드로이드에 사용할 수 있게 한다.   
 
 안드로이드 java(interaction)부분
-main[https://github.com/tjdudgml3/image_picker/blob/main/MainActivity.java]
+main[https://github.com/tjdudgml3/image_picker/blob/main/application_java/MainActivity.java]
 
-모델삽입[https://github.com/tjdudgml3/image_picker/blob/main/ClassifierWithSupport.java]
+모델삽입[https://github.com/tjdudgml3/image_picker/blob/main/application_java/ClassifierWithSupport.java]
 
-이미지 리사이클러뷰[https://github.com/tjdudgml3/image_picker/blob/main/Subactivity.java]
+이미지 리사이클러뷰[https://github.com/tjdudgml3/image_picker/blob/main/application_java/Subactivity.java]
 
 ##PPT
-##[https://github.com/tjdudgml3/image_picker/blob/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4]
+##[https://github.com/tjdudgml3/image_picker/blob/main/ppt%26demo_video/imagepicker_ppt.pptx]

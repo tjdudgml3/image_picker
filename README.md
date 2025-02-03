@@ -19,6 +19,11 @@ main[https://github.com/tjdudgml3/image_picker/blob/main/application_java/MainAc
 
 이미지 리사이클러뷰[https://github.com/tjdudgml3/image_picker/blob/main/application_java/Subactivity.java]
 
+유튜브 시연영상
+[![YouTube Video](https://img.youtube.com/vi/HqqoxfbQWzM/0.jpg)](https://www.youtube.com/shorts/HqqoxfbQWzM)
+
+
+
 ##PPT
 ##[https://github.com/tjdudgml3/image_picker/blob/main/ppt%26demo_video/imagepicker_ppt.pptx]
 
